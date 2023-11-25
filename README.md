@@ -12,13 +12,12 @@ basic available colors to the console.
 The following colors are available in this api. See more at docs for
 documentation.
 
-- <p style="color:red">Red</p>
-- <p style="color:green">Green</p>
-- <p style="color:yellow">yellow</p>
-- <p style="color:blue">Blue</p>
-- <p style="color:magenta">Magenta</p>
-- <p style="color:cyan">Cyan</p>
-
+- Red
+- Green
+- Yellow
+- Blue
+- Magenta
+- Cyan
 
 ## TODO:
-- [ ] Add other manipulation like underlines and bold text
+- [X] Add other manipulation like underlines and bold text

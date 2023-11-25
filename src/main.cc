@@ -2,8 +2,8 @@
 #include "colors.hh"
 
 int main() {
-    auto s = "Krishna Modepalli"_blue;
-    printf("%s\n", s);
+    std::cout << col::cyan << "I am " << col::bold << "Krishna Modepalli"
+            << col::unbold << '.' << col::resetAll << std::endl;
 
     return 0;
 }

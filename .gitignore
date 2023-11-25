@@ -1,6 +1,7 @@
 
 # editor files
 .vscode/
+*.code-workspace
 
 # binaries
 bin/
@@ -8,6 +9,7 @@ bin/
 # object files
 obj/
 
+# Starting to include the makefile
 makefile
 
 
